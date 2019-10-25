@@ -1,4 +1,5 @@
-![Logic Flight logo](https://github.com/rckmath/2048-Game/blob/master/doc/logic-flight.jpg)
+![Logic Flight logo](doc/logic-flight.jpg)
+
 
 # The project
 
