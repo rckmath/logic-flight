@@ -16,5 +16,5 @@ Users are able to:
 
 # Developers
 
-Erick M. L. Pacheco
+Erick M. L. Pacheco</br >
 Carlos H. V. Marques
